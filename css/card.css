@@ -1,0 +1,39 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.box-1{
+  height: 500px;
+  width: 400px;
+  background-color: red;
+  border-radius: 20px 100px;
+  overflow: hidden;
+}
+.box-11{
+  height: 250px;
+  background-image: url("../asset/image/Landscape-Color.jpg");
+  background-size: cover;
+ 
+}
+.box-22{
+  padding:0px 10px;
+}
+.box-22 p{
+  text-align: justify;
+  
+  font-weight: bold;
+}
+.link{
+  text-align: center;
+  margin-top:40px
+}
+.link a{
+  margin: 20px;
+  text-decoration: none;
+  color:white;
+  border:2px solid white;
+  padding:10px 20px ;
+}
+
+a:hover{
+  background-color: black;
+}
